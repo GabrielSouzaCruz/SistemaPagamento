@@ -44,4 +44,4 @@ Este projeto tem como foco **ensinar e aplicar conceitos de POO** na prática, p
 
 ![image](https://github.com/user-attachments/assets/7bb21d21-742f-42e0-8753-1912b5654f76)
 
-🧑‍💻 Autor
+🧑‍💻 Autor Gabriel Souza Cruz
